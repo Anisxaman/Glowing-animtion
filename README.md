@@ -9,4 +9,4 @@ A simple Glowing TExt
 
 ## Site link:
 
-https://anisxaman.github.io/project-clock/
+https://anisxaman.github.io/Glowing-animtion/
